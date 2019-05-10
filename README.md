@@ -5,7 +5,7 @@
 ## Rough Outline the Sessions
 
 * We’ll have sticky notes available in the PI Team that can be used to brainstorm discussion topics. We’ll experiment by having this made available starting Tuesday, June 18 to allow people to begin playing with topic ideas Prior to the Open Space
-* The Unconference - Wednesday, June 19. We’ll event this day, it’s timeboxed but highly flexible. We’ll have as many or as few sessions and tracks as needed.
+* The Unconference - Wednesday, June 19 - 1:00pm to 3:00pm. We’ll have as many or as few sessions and tracks as needed.
 
 
 ## Open Spaces Guidelines
