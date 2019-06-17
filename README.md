@@ -4,8 +4,9 @@
 
 ## Rough Outline the Sessions
 
+* Session ideation; we'll experiement by using physical sticky notes _and_ [this etherpad](https://pad.mozilla.org/p/pi-mozwhistler-allhands) to capture topic and session ideas.
 * We’ll have sticky notes available in the PI Team that can be used to brainstorm discussion topics. We’ll experiment by having this made available starting Tuesday, June 18 to allow people to begin playing with topic ideas Prior to the Open Space
-* The Unconference - Wednesday, June 19 - 1:00pm to 3:00pm. We’ll have as many or as few sessions and tracks as needed.
+* The Unconference - Wednesday, June 19 - 1:00pm to 3:00pm. We’ll organize the topics into sessions, having as many or as few sessions and tracks as needed.
 
 
 ## Open Spaces Guidelines
